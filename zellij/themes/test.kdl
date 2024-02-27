@@ -1,0 +1,15 @@
+themes {
+    test {
+        fg      15
+        bg      0
+        black   8
+        red     9
+        green   10
+        yellow  11
+        blue    12
+        magenta 13
+        cyan    14
+        white   15
+        orange  3
+    }
+}
