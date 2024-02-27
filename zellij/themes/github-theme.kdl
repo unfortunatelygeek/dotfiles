@@ -1,0 +1,19 @@
+themes {
+
+	github-theme {
+
+		bg "#0a0c10"
+		fg "#f0f3f6"
+		black "#7a828e"
+		red "#ff9492"
+		magenta "#cb9eff"
+		yellow "#f0b72f"
+		green "#C8A2C8"
+		cyan "#39c5cf"
+		blue "#71b7ff"
+		orange "#fe640b"
+		white "#d9dee3"		
+
+	}
+
+}

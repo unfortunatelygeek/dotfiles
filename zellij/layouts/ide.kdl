@@ -1,0 +1,37 @@
+layout {
+	tab name="editor" split_direction="horizontal" focus=true {
+		pane name="helix" size="70%" focus=true {
+			command "hx"
+			args "."
+		} 
+		pane name="term" size="30%"
+		// pane split_direction="vertical" {
+		// 	pane size="80%" split_direction="horizontal" {
+		// 	}
+		// 	pane name="strider" size="20%" {
+		// 		// plugin location="zellij:strider"
+		// 	}
+		// }
+		pane size=1 borderless=true {
+			plugin location="zellij:compact-bar"
+		}
+	}
+	tab name="explorer" {
+		pane name="yazi" command="yazi"
+		pane size=1 borderless=true {
+			plugin location="zellij:compact-bar"
+		}
+	}
+	tab name="git" {
+		pane name="lazygit" command="lazygit"
+		pane size=1 borderless=true {
+			plugin location="zellij:compact-bar"
+		}
+	}
+	default_tab_template {
+		children
+		pane size=1 boderless=true {
+			plugin location="zellij:compact-bar"
+		}
+	}
+}
