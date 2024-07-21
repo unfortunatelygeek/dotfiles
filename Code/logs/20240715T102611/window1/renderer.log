@@ -1,0 +1,7 @@
+2024-07-15 10:26:12.452 [info] Started local extension host with pid 7712.
+2024-07-15 10:26:15.206 [info] [perf] Render performance baseline is 83ms
+2024-07-15 14:45:46.831 [warning] [File Watcher (parcel)] Watcher shutdown because watched path got deleted (path: /home/aditirao/projects/web/adr-portfolio/node_modules/@types)
+2024-07-15 14:45:47.403 [error] [File Watcher (parcel)] Unexpected error stopping watcher: Unable to remove watcher: Invalid argument (path: /home/aditirao/projects/web/adr-portfolio/node_modules)
+2024-07-15 14:47:47.838 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/aditirao/projects/web/adr-portfolio/node_modules/tailwind-merge/src/lib' failed: No such file or directory (EUNKNOWN) (path: /home/aditirao/projects/web/adr-portfolio/node_modules)
+2024-07-15 14:47:47.841 [error] [File Watcher (universal)] inotify_add_watch on '/home/aditirao/projects/web/adr-portfolio/node_modules/tailwind-merge/src/lib' failed: No such file or directory
+2024-07-15 14:53:28.448 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

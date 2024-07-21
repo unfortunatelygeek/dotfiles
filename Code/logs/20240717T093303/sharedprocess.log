@@ -1,0 +1,40 @@
+2024-07-17 09:33:09.116 [info] Getting Manifest... github.copilot
+2024-07-17 09:33:09.179 [info] Installing extension: github.copilot {"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/aditirao/.vscode/extensions/extensions.json","path":"/home/aditirao/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-07-17 09:33:12.637 [info] Extension signature verification result for github.copilot: Success. Executed: true. Duration: 1438ms.
+2024-07-17 09:33:12.896 [info] Extracted extension to file:///home/aditirao/.vscode/extensions/github.copilot-1.214.0: github.copilot
+2024-07-17 09:33:12.902 [info] Renamed to /home/aditirao/.vscode/extensions/github.copilot-1.214.0
+2024-07-17 09:33:12.914 [info] Marked extension as uninstalled github.copilot-1.213.0
+2024-07-17 09:33:12.919 [info] Extension installed successfully: github.copilot vscode-userdata:/home/aditirao/.vscode/extensions/extensions.json
+2024-07-17 09:33:12.988 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/aditirao/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/aditirao/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)
+2024-07-17 09:36:51.926 [info] Getting Manifest... github.copilot-chat
+2024-07-17 09:36:51.941 [info] Installing extension: github.copilot-chat {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/aditirao/.config/Code/User/profiles/-4d68753f/extensions.json","path":"/home/aditirao/.config/Code/User/profiles/-4d68753f/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-07-17 09:36:52.720 [info] Getting Manifest... github.copilot
+2024-07-17 09:36:52.769 [info] Installing extension: github.copilot {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/aditirao/.config/Code/User/profiles/-4d68753f/extensions.json","path":"/home/aditirao/.config/Code/User/profiles/-4d68753f/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-07-17 09:36:54.076 [info] Extension signature verification result for github.copilot-chat: Success. Executed: true. Duration: 1270ms.
+2024-07-17 09:36:54.172 [info] Extension signature verification result for github.copilot: Success. Executed: true. Duration: 1370ms.
+2024-07-17 09:36:54.219 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/aditirao/.config/Code/User/profiles/-4d68753f/extensions.json
+2024-07-17 09:36:54.221 [info] Extension installed successfully: github.copilot vscode-userdata:/home/aditirao/.config/Code/User/profiles/-4d68753f/extensions.json
+2024-07-17 09:37:06.153 [info] Getting Manifest... austenc.tailwind-docs
+2024-07-17 09:37:06.163 [info] Installing extension: austenc.tailwind-docs {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/aditirao/.config/Code/User/profiles/-4d68753f/extensions.json","path":"/home/aditirao/.config/Code/User/profiles/-4d68753f/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-07-17 09:37:07.868 [info] Extension signature verification result for austenc.tailwind-docs: Success. Executed: true. Duration: 1031ms.
+2024-07-17 09:37:07.885 [info] Extracted extension to file:///home/aditirao/.vscode/extensions/austenc.tailwind-docs-2.1.0: austenc.tailwind-docs
+2024-07-17 09:37:07.890 [info] Renamed to /home/aditirao/.vscode/extensions/austenc.tailwind-docs-2.1.0
+2024-07-17 09:37:07.907 [info] Extension installed successfully: austenc.tailwind-docs vscode-userdata:/home/aditirao/.config/Code/User/profiles/-4d68753f/extensions.json
+2024-07-17 09:37:12.773 [info] Getting Manifest... bourhaouta.tailwindshades
+2024-07-17 09:37:12.787 [info] Installing extension: bourhaouta.tailwindshades {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/aditirao/.config/Code/User/profiles/-4d68753f/extensions.json","path":"/home/aditirao/.config/Code/User/profiles/-4d68753f/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-07-17 09:37:14.618 [info] Extension signature verification result for bourhaouta.tailwindshades: Success. Executed: true. Duration: 1176ms.
+2024-07-17 09:37:14.687 [info] Extracted extension to file:///home/aditirao/.vscode/extensions/bourhaouta.tailwindshades-0.0.5: bourhaouta.tailwindshades
+2024-07-17 09:37:14.693 [info] Renamed to /home/aditirao/.vscode/extensions/bourhaouta.tailwindshades-0.0.5
+2024-07-17 09:37:14.730 [info] Extension installed successfully: bourhaouta.tailwindshades vscode-userdata:/home/aditirao/.config/Code/User/profiles/-4d68753f/extensions.json
+2024-07-17 09:37:17.653 [info] Getting Manifest... stivo.tailwind-fold
+2024-07-17 09:37:17.680 [info] Installing extension: stivo.tailwind-fold {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/aditirao/.config/Code/User/profiles/-4d68753f/extensions.json","path":"/home/aditirao/.config/Code/User/profiles/-4d68753f/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-07-17 09:37:21.044 [info] Extension signature verification result for stivo.tailwind-fold: Success. Executed: true. Duration: 1313ms.
+2024-07-17 09:37:21.131 [info] Extracted extension to file:///home/aditirao/.vscode/extensions/stivo.tailwind-fold-0.2.0: stivo.tailwind-fold
+2024-07-17 09:37:21.134 [info] Renamed to /home/aditirao/.vscode/extensions/stivo.tailwind-fold-0.2.0
+2024-07-17 09:37:21.161 [info] Extension installed successfully: stivo.tailwind-fold vscode-userdata:/home/aditirao/.config/Code/User/profiles/-4d68753f/extensions.json

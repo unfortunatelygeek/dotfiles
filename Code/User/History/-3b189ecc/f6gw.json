@@ -1,0 +1,7 @@
+{
+  "window.titleBarStyle": "custom",
+  "workbench.preferredHighContrastColorTheme": "Abyss",
+  "workbench.preferredDarkColorTheme": "Abyss",
+  "workbench.colorTheme": "Abyss",
+  "git.autofetch": true
+}

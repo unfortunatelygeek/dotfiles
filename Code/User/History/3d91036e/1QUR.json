@@ -1,0 +1,6 @@
+{
+  "workbench.colorTheme": "Abyss",
+  "workbench.preferredDarkColorTheme": "Abyss",
+  "workbench.preferredHighContrastColorTheme": "Abyss",
+  "tailwindcss-intellisense.trace.server": "verbose"
+}

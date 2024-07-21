@@ -1,0 +1,105 @@
+2024-07-16 17:33:13.238 [info] Log level: Info
+2024-07-16 17:33:13.238 [info] Validating found git in: "git"
+2024-07-16 17:33:13.238 [info] Using git "2.39.2" from "git"
+2024-07-16 17:33:13.238 [info] > git rev-parse --show-toplevel [25ms]
+2024-07-16 17:33:13.238 [info] > git rev-parse --git-dir --git-common-dir [35ms]
+2024-07-16 17:33:13.238 [info] Open repository: /home/aditirao/projects/web/adr-portfolio/adr-portfolio
+2024-07-16 17:33:13.507 [info] > git rev-parse --show-toplevel [258ms]
+2024-07-16 17:33:13.508 [info] > git config --get commit.template [263ms]
+2024-07-16 17:33:13.508 [info] > git fetch [274ms]
+2024-07-16 17:33:13.621 [info] No remotes found in the git config file.
+2024-07-16 17:33:13.624 [info] > git config --get commit.template [23ms]
+2024-07-16 17:33:13.625 [info] > git rev-parse --show-toplevel [29ms]
+2024-07-16 17:33:13.685 [info] > git show --textconv :package.json [50ms]
+2024-07-16 17:33:13.685 [info] > git ls-files --stage -- /home/aditirao/projects/web/adr-portfolio/adr-portfolio/package.json [43ms]
+2024-07-16 17:33:13.694 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [74ms]
+2024-07-16 17:33:13.694 [warning] No such branch: master.
+2024-07-16 17:33:13.716 [info] No remotes found in the git config file.
+2024-07-16 17:33:13.773 [info] > git config --get commit.template [38ms]
+2024-07-16 17:33:13.774 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [46ms]
+2024-07-16 17:33:13.774 [warning] No such branch: master.
+2024-07-16 17:33:13.868 [info] No remotes found in the git config file.
+2024-07-16 17:33:13.873 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-07-16 17:33:13.873 [warning] No such branch: master.
+2024-07-16 17:33:13.895 [info] > git status -z -uall [13ms]
+2024-07-16 17:33:13.919 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2024-07-16 17:33:13.919 [warning] No such branch: master.
+2024-07-16 17:33:14.134 [info] > git check-ignore -v -z --stdin [36ms]
+2024-07-16 17:33:20.093 [info] > git check-ignore -v -z --stdin [14ms]
+2024-07-16 17:33:30.942 [info] > git add -A -- . [13ms]
+2024-07-16 17:33:30.957 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [9ms]
+2024-07-16 17:33:30.968 [info] > git config --get commit.template [2ms]
+2024-07-16 17:33:30.989 [info] No remotes found in the git config file.
+2024-07-16 17:33:30.990 [info] > git config --get commit.template [11ms]
+2024-07-16 17:33:30.991 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-07-16 17:33:31.003 [info] > git status -z -uall [4ms]
+2024-07-16 17:33:31.026 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2024-07-16 17:33:31.043 [info] > git config --local branch.master.vscode-merge-base [7ms]
+2024-07-16 17:33:31.044 [warning] git config failed: Failed to execute git
+2024-07-16 17:33:31.062 [info] > git reflog master --grep-reflog=branch: Created from *. [4ms]
+2024-07-16 17:33:31.077 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [3ms]
+2024-07-16 17:33:31.077 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-07-16 17:33:31.248 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [2ms]
+2024-07-16 17:33:31.257 [info] > git config --get commit.template [18ms]
+2024-07-16 17:33:31.268 [info] No remotes found in the git config file.
+2024-07-16 17:33:31.268 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [11ms]
+2024-07-16 17:33:31.281 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2024-07-16 17:33:31.293 [info] > git status -z -uall [3ms]
+2024-07-16 17:33:31.302 [info] > git config --local branch.master.vscode-merge-base [24ms]
+2024-07-16 17:33:31.303 [warning] git config failed: Failed to execute git
+2024-07-16 17:33:31.313 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2024-07-16 17:33:31.325 [info] > git config --local branch.master.vscode-merge-base [3ms]
+2024-07-16 17:33:31.325 [warning] git config failed: Failed to execute git
+2024-07-16 17:33:31.331 [info] > git reflog refs/heads/master --grep-reflog=branch: Created from *. [19ms]
+2024-07-16 17:33:31.341 [info] > git reflog master --grep-reflog=branch: Created from *. [10ms]
+2024-07-16 17:33:31.347 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [7ms]
+2024-07-16 17:33:31.347 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-07-16 17:33:31.347 [info] GitHistoryProvider:resolveHistoryItemGroupUpstreamOrBase - Failed to resolve history item group base for 'refs/heads/master'
+2024-07-16 17:33:31.347 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/master'
+2024-07-16 17:33:31.348 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [2ms]
+2024-07-16 17:33:31.348 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-07-16 17:33:31.366 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [1ms]
+2024-07-16 17:33:31.377 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [2ms]
+2024-07-16 17:33:31.384 [info] > git config --local branch.master.vscode-merge-base [1ms]
+2024-07-16 17:33:31.384 [warning] git config failed: Failed to execute git
+2024-07-16 17:33:31.393 [info] > git reflog refs/heads/master --grep-reflog=branch: Created from *. [1ms]
+2024-07-16 17:33:31.400 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-07-16 17:33:31.400 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-07-16 17:33:31.400 [info] GitHistoryProvider:resolveHistoryItemGroupUpstreamOrBase - Failed to resolve history item group base for 'refs/heads/master'
+2024-07-16 17:33:31.400 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/master'
+2024-07-16 17:33:32.173 [info] > git ls-files --stage -- /home/aditirao/projects/web/adr-portfolio/adr-portfolio/package.json [4ms]
+2024-07-16 17:33:32.188 [info] > git cat-file -s bf788a7d16d9617c834a332f9a4a0b882880df70 [2ms]
+2024-07-16 17:33:32.200 [info] > git show --textconv :package.json [2ms]
+2024-07-16 17:44:09.442 [info] > git fetch [5ms]
+2024-07-16 17:44:09.453 [info] No remotes found in the git config file.
+2024-07-16 17:44:09.454 [info] > git config --get commit.template [6ms]
+2024-07-16 17:44:09.454 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-07-16 17:44:09.462 [info] > git status -z -uall [2ms]
+2024-07-16 17:44:09.471 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-07-16 17:44:09.479 [info] > git config --local branch.master.vscode-merge-base [1ms]
+2024-07-16 17:44:09.479 [warning] git config failed: Failed to execute git
+2024-07-16 17:44:09.487 [info] > git reflog master --grep-reflog=branch: Created from *. [1ms]
+2024-07-16 17:44:09.493 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [2ms]
+2024-07-16 17:44:09.493 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-07-16 17:44:10.542 [info] > git config --get commit.template [3ms]
+2024-07-16 17:44:10.552 [info] No remotes found in the git config file.
+2024-07-16 17:44:10.554 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-07-16 17:44:10.562 [info] > git status -z -uall [3ms]
+2024-07-16 17:44:10.571 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-07-16 17:44:10.578 [info] > git config --local branch.master.vscode-merge-base [1ms]
+2024-07-16 17:44:10.578 [warning] git config failed: Failed to execute git
+2024-07-16 17:44:10.585 [info] > git reflog master --grep-reflog=branch: Created from *. [2ms]
+2024-07-16 17:44:10.591 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-07-16 17:44:10.591 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-07-16 17:44:10.629 [info] > git ls-files --stage -- /home/aditirao/projects/web/adr-portfolio/adr-portfolio/package.json [1ms]
+2024-07-16 17:44:10.637 [info] > git cat-file -s bf788a7d16d9617c834a332f9a4a0b882880df70 [1ms]
+2024-07-16 17:44:10.646 [info] > git show --textconv :package.json [2ms]
+2024-07-16 17:44:11.681 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [3ms]
+2024-07-16 17:44:11.690 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master [1ms]
+2024-07-16 17:44:11.696 [info] > git config --local branch.master.vscode-merge-base [1ms]
+2024-07-16 17:44:11.697 [warning] git config failed: Failed to execute git
+2024-07-16 17:44:11.703 [info] > git reflog refs/heads/master --grep-reflog=branch: Created from *. [1ms]
+2024-07-16 17:44:11.709 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-07-16 17:44:11.709 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-07-16 17:44:11.710 [info] GitHistoryProvider:resolveHistoryItemGroupUpstreamOrBase - Failed to resolve history item group base for 'refs/heads/master'
+2024-07-16 17:44:11.710 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/master'

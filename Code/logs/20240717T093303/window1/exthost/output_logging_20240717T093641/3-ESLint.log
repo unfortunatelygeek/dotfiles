@@ -1,0 +1,125 @@
+[Info  - 9:36:43 AM] ESLint server is starting.
+[Info  - 9:36:44 AM] ESLint server running in node v20.9.0
+[Info  - 9:36:44 AM] ESLint server is running.
+[Info  - 9:36:45 AM] ESLint library loaded from: /home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/api.js
+[Error - 9:36:45 AM] Calculating config file for file:///home/aditirao/projects/web/adr-portfolio/src/app/page.tsx) failed.
+Error: Could not find config file.
+    at locateConfigFileToUse (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:350:21)
+    at async calculateConfigArray (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:386:49)
+    at async ESLint.calculateConfigForFile (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1185:25)
+    at async ESLint.isPathIgnored (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1209:24)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24295
+    at async Object.M [as withClass] (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19807)
+    at async O.then.m.validate (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 9:37:23 AM] Calculating config file for file:///home/aditirao/projects/web/adr-portfolio/src/app/page.tsx) failed.
+Error: Could not find config file.
+    at locateConfigFileToUse (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:350:21)
+    at async calculateConfigArray (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:386:49)
+    at async ESLint.calculateConfigForFile (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1185:25)
+    at async ESLint.isPathIgnored (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1209:24)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24295
+    at async Object.M [as withClass] (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19807)
+    at async O.then.m.validate (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 9:37:44 AM] Calculating config file for file:///home/aditirao/projects/web/adr-portfolio/src/app/page.tsx) failed.
+Error: Could not find config file.
+    at locateConfigFileToUse (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:350:21)
+    at async calculateConfigArray (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:386:49)
+    at async ESLint.calculateConfigForFile (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1185:25)
+    at async ESLint.isPathIgnored (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1209:24)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24295
+    at async Object.M [as withClass] (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19807)
+    at async O.then.m.validate (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 9:46:40 AM] Calculating config file for file:///home/aditirao/projects/web/adr-portfolio/src/app/navbar.tsx) failed.
+Error: Could not find config file.
+    at locateConfigFileToUse (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:350:21)
+    at async calculateConfigArray (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:386:49)
+    at async ESLint.calculateConfigForFile (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1185:25)
+    at async ESLint.isPathIgnored (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1209:24)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24295
+    at async Object.M [as withClass] (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19807)
+    at async O.then.m.validate (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 9:53:20 AM] Calculating config file for file:///home/aditirao/projects/web/adr-portfolio/src/app/page.tsx) failed.
+Error: Could not find config file.
+    at locateConfigFileToUse (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:350:21)
+    at async calculateConfigArray (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:386:49)
+    at async ESLint.calculateConfigForFile (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1185:25)
+    at async ESLint.isPathIgnored (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1209:24)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24295
+    at async Object.M [as withClass] (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19807)
+    at async O.then.m.validate (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 9:56:41 AM] Calculating config file for file:///home/aditirao/projects/web/adr-portfolio/src/app/navbar/page.tsx) failed.
+Error: Could not find config file.
+    at locateConfigFileToUse (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:350:21)
+    at async calculateConfigArray (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:386:49)
+    at async ESLint.calculateConfigForFile (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1185:25)
+    at async ESLint.isPathIgnored (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1209:24)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24295
+    at async Object.M [as withClass] (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19807)
+    at async O.then.m.validate (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 10:01:10 AM] Calculating config file for file:///home/aditirao/projects/web/adr-portfolio/src/utils/getNavItems.ts) failed.
+Error: Could not find config file.
+    at locateConfigFileToUse (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:350:21)
+    at async calculateConfigArray (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:386:49)
+    at async ESLint.calculateConfigForFile (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1185:25)
+    at async ESLint.isPathIgnored (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1209:24)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24295
+    at async Object.M [as withClass] (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19807)
+    at async O.then.m.validate (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 10:02:00 AM] Calculating config file for file:///home/aditirao/projects/web/adr-portfolio/src/components/Navbar.tsx) failed.
+Error: Could not find config file.
+    at locateConfigFileToUse (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:350:21)
+    at async calculateConfigArray (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:386:49)
+    at async ESLint.calculateConfigForFile (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1185:25)
+    at async ESLint.isPathIgnored (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1209:24)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24295
+    at async Object.M [as withClass] (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19807)
+    at async O.then.m.validate (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 10:04:40 AM] Calculating config file for file:///home/aditirao/projects/web/adr-portfolio/package.json) failed.
+Error: Could not find config file.
+    at locateConfigFileToUse (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:350:21)
+    at async calculateConfigArray (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:386:49)
+    at async ESLint.calculateConfigForFile (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1185:25)
+    at async ESLint.isPathIgnored (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1209:24)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24295
+    at async Object.M [as withClass] (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19807)
+    at async O.then.m.validate (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 10:08:32 AM] Calculating config file for file:///home/aditirao/projects/web/adr-portfolio/src/utils/getNavItems.js) failed.
+Error: Could not find config file.
+    at locateConfigFileToUse (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:350:21)
+    at async calculateConfigArray (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:386:49)
+    at async ESLint.calculateConfigForFile (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1185:25)
+    at async ESLint.isPathIgnored (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1209:24)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:23757
+    at async Object.M [as withClass] (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19807)
+    at async O.then.m.validate (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:23728)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886
+[Error - 10:08:36 AM] Calculating config file for file:///home/aditirao/projects/web/adr-portfolio/tsconfig.json) failed.
+Error: Could not find config file.
+    at locateConfigFileToUse (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:350:21)
+    at async calculateConfigArray (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:386:49)
+    at async ESLint.calculateConfigForFile (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1185:25)
+    at async ESLint.isPathIgnored (/home/aditirao/projects/web/adr-portfolio/node_modules/eslint/lib/eslint/eslint.js:1209:24)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24295
+    at async Object.M [as withClass] (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:19807)
+    at async O.then.m.validate (/home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:24255)
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:234417
+    at async /home/aditirao/.vscode/extensions/dbaeumer.vscode-eslint-3.0.10/server/out/eslintServer.js:1:63886

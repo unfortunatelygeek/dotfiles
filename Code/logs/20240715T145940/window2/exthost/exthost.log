@@ -1,0 +1,32 @@
+2024-07-15 16:00:04.774 [info] Extension host with pid 15394 started
+2024-07-15 16:00:04.774 [info] Skipping acquiring lock for /home/aditirao/.config/Code/User/workspaceStorage/a84f9318b11c277df13a914703e847ac.
+2024-07-15 16:00:04.963 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-15 16:00:05.021 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-15 16:00:05.061 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-15 16:00:05.128 [info] Eager extensions activated
+2024-07-15 16:00:05.144 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-15 16:00:05.145 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-15 16:00:05.254 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-15 16:00:05.304 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-07-15 16:00:10.925 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-07-15 16:00:40.447 [info] ExtensionService#_doActivateExtension ms-vscode.live-server, startup: false, activationEvent: 'onCommand:livePreview.setDefaultOpenFile'
+2024-07-15 16:00:40.539 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-15 16:00:40.545 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-15 16:00:40.566 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-07-15 16:00:46.563 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2024-07-15 16:00:46.569 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-07-15 16:00:47.143 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2024-07-15 16:01:18.465 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-07-15 16:05:50.789 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-07-15 16:14:05.217 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1936
+2024-07-15 16:14:18.129 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-07-15 16:14:21.771 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1936
+2024-07-15 16:14:39.919 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1937
+2024-07-15 16:16:47.334 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1937
+2024-07-15 16:37:25.085 [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+2024-07-15 16:37:26.104 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/aditirao/projects/web/myntra/myntra-weforshe/Common Files/image/favicon.png'
+	at P.e (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:6131)
+	at Object.stat (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:3902)
+2024-07-15 16:54:02.039 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/aditirao/projects/web/myntra/myntra-weforshe/myntra/Landingpage/myntra/Common Files/image/myntra-removebg-preview.png'
+	at P.e (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:6131)
+	at Object.stat (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:3902)

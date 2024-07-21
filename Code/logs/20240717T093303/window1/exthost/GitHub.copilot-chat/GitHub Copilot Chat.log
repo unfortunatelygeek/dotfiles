@@ -1,0 +1,70 @@
+2024-07-17 09:33:06.261 [info] [FetcherService] Using the Helix fetcher.
+2024-07-17 09:33:06.261 [info] [gitExtensionService] Initializing Git extension service.
+2024-07-17 09:33:06.261 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2024-07-17 09:33:06.261 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2024-07-17 09:33:06.262 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2024-07-17 09:33:06.361 [info] [auth] Logged in as unfortunatelygeek
+2024-07-17 09:33:06.361 [info] [auth] Logged in as unfortunatelygeek
+2024-07-17 09:33:07.083 [info] [chat] copilot token chat_enabled: true
+2024-07-17 09:33:07.083 [info] [githubTitleAndDescriptionProvider] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-07-17 09:33:07.128 [info] [auth] Got Copilot token for unfortunatelygeek
+2024-07-17 09:33:07.182 [info] [chat] copilot token chat_enabled: true
+2024-07-17 09:33:07.182 [info] [auth] Got Copilot token for unfortunatelygeek
+2024-07-17 09:33:07.217 [info] [auth] Logged in as unfortunatelygeek
+2024-07-17 09:33:07.224 [info] [chat] copilot token chat_enabled: true
+2024-07-17 09:33:07.224 [info] [auth] Got Copilot token for unfortunatelygeek
+2024-07-17 09:36:35.117 [info] [FetcherService] Using the Helix fetcher.
+2024-07-17 09:36:35.117 [info] [gitExtensionService] Initializing Git extension service.
+2024-07-17 09:36:35.117 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2024-07-17 09:36:35.117 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2024-07-17 09:36:35.117 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2024-07-17 09:36:35.396 [info] [auth] Logged in as unfortunatelygeek
+2024-07-17 09:36:35.396 [info] [auth] Logged in as unfortunatelygeek
+2024-07-17 09:36:35.955 [info] [chat] copilot token chat_enabled: true
+2024-07-17 09:36:35.955 [info] [githubTitleAndDescriptionProvider] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-07-17 09:36:35.979 [info] [auth] Got Copilot token for unfortunatelygeek
+2024-07-17 09:36:35.994 [info] [chat] copilot token chat_enabled: true
+2024-07-17 09:36:35.994 [info] [auth] Got Copilot token for unfortunatelygeek
+2024-07-17 09:36:36.257 [info] [auth] Logged in as unfortunatelygeek
+2024-07-17 09:36:36.265 [info] [chat] copilot token chat_enabled: true
+2024-07-17 09:36:36.265 [info] [auth] Got Copilot token for unfortunatelygeek
+2024-07-17 09:36:55.144 [info] [FetcherService] Using the Helix fetcher.
+2024-07-17 09:36:55.144 [info] [gitExtensionService] Initializing Git extension service.
+2024-07-17 09:36:55.144 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2024-07-17 09:36:55.144 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2024-07-17 09:36:55.144 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2024-07-17 09:36:55.153 [info] [auth] Logged in as unfortunatelygeek
+2024-07-17 09:36:55.153 [info] [auth] Logged in as unfortunatelygeek
+2024-07-17 09:36:55.739 [info] [chat] copilot token chat_enabled: true
+2024-07-17 09:36:55.739 [info] [githubTitleAndDescriptionProvider] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-07-17 09:36:55.789 [info] [auth] Got Copilot token for unfortunatelygeek
+2024-07-17 09:36:55.821 [info] [chat] copilot token chat_enabled: true
+2024-07-17 09:36:55.821 [info] [auth] Got Copilot token for unfortunatelygeek
+2024-07-17 09:36:55.942 [info] [auth] Logged in as unfortunatelygeek
+2024-07-17 09:36:55.951 [info] [chat] copilot token chat_enabled: true
+2024-07-17 09:36:55.951 [info] [auth] Got Copilot token for unfortunatelygeek
+2024-07-17 09:55:31.346 [info] [GitCommitMessageService] Generating patch file for untracked file: file:///home/aditirao/projects/web/adr-portfolio/components.json
+2024-07-17 09:55:31.348 [info] [GitCommitMessageService] Generating patch file for untracked file: file:///home/aditirao/projects/web/adr-portfolio/src/lib/utils.ts
+2024-07-17 09:55:31.349 [info] [GitCommitMessageService] Changes (before context exclusion): 6 file(s)
+2024-07-17 09:55:31.356 [info] [GitCommitMessageService] Changes (after context exclusion): 6 file(s)
+2024-07-17 09:55:33.007 [info] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 1423 ms
+2024-07-17 09:55:33.031 [info] [streamMessages] message 0 returned. finish reason: [stop]
+2024-07-17 09:55:33.036 [info] [streamChoices] request done: requestId: [20ce9894-32ca-4e21-a9c2-1a4cf387e6bb] model deployment ID: [zb2890b3247b6]
+2024-07-17 09:59:12.864 [info] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 1696 ms
+2024-07-17 09:59:22.936 [info] [streamMessages] message 0 returned. finish reason: [stop]
+2024-07-17 09:59:22.937 [info] [streamChoices] request done: requestId: [4f401f40-e9f4-40e4-b443-71e2af1abc6b] model deployment ID: []
+2024-07-17 09:59:23.706 [info] [chat fetch] request.response: [https://api.githubcopilot.com/chat/completions], took 603 ms
+2024-07-17 09:59:23.708 [info] [streamMessages] message 0 returned. finish reason: [stop]
+2024-07-17 09:59:23.709 [info] [streamChoices] request done: requestId: [81423718-95d8-4bb4-a894-825c5366a734] model deployment ID: [zb2890b3247b6]
+2024-07-17 10:01:55.830 [info] [auth] Logged in as unfortunatelygeek
+2024-07-17 10:01:56.312 [info] [chat] copilot token chat_enabled: true
+2024-07-17 10:01:56.312 [info] [auth] Got Copilot token for unfortunatelygeek
+2024-07-17 10:26:56.373 [info] [auth] Logged in as unfortunatelygeek
+2024-07-17 10:26:56.808 [info] [chat] copilot token chat_enabled: true
+2024-07-17 10:26:56.808 [info] [auth] Got Copilot token for unfortunatelygeek
+2024-07-17 10:51:56.879 [info] [auth] Logged in as unfortunatelygeek
+2024-07-17 10:51:57.502 [info] [chat] copilot token chat_enabled: true
+2024-07-17 10:51:57.502 [info] [auth] Got Copilot token for unfortunatelygeek
+2024-07-17 11:16:57.510 [info] [auth] Logged in as unfortunatelygeek
+2024-07-17 11:16:58.110 [info] [chat] copilot token chat_enabled: true
+2024-07-17 11:16:58.110 [info] [auth] Got Copilot token for unfortunatelygeek

@@ -1,0 +1,28 @@
+{
+  "name": "agrilink-models",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "fake": "node_modules/.bin/tsc && dotenv -c -- node build/scripts/faker/faker.js",
+    "generate": "tsc && drizzle-kit generate:pg",
+    "migrate": "dotenv -c -- drizzle-kit push:pg",
+    "studio": "dotenv -c -- drizzle-kit studio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "dotenv-cli": "^7.4.1",
+    "drizzle-kit": "^0.20.17",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "drizzle-orm": "^0.30.9",
+    "postgres": "^3.4.4",
+    "tsc": "^2.0.4",
+    "yarn": "^1.22.22"
+  }
+}

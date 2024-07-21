@@ -1,0 +1,56 @@
+[Error - 6:17:52 PM] Error while computing completions for file:///home/aditirao/projects/web/myntra/myntra-weforshe/myntra/wishlist/cart.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1371384)
+    at B (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798289)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:797566)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:799079)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1312213)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1297922
+[Error - 6:18:01 PM] Error while computing completions for file:///home/aditirao/projects/web/myntra/myntra-weforshe/myntra/wishlist/cart.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1371384)
+    at B (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798289)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:797566)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:799079)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1312213)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1297922
+[Error - 6:18:01 PM] Error while computing completions for file:///home/aditirao/projects/web/myntra/myntra-weforshe/myntra/wishlist/cart.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1371384)
+    at B (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798289)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:797566)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:799079)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1312213)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1297922
+[Error - 6:18:01 PM] Error while computing completions for file:///home/aditirao/projects/web/myntra/myntra-weforshe/myntra/wishlist/cart.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1371384)
+    at B (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798289)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:797566)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:799079)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1312213)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1297922
+[Error - 6:18:01 PM] Error while computing completions for file:///home/aditirao/projects/web/myntra/myntra-weforshe/myntra/wishlist/cart.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1371384)
+    at B (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798289)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:797566)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:799079)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1312213)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1297922
+[Error - 6:18:02 PM] Error while computing completions for file:///home/aditirao/projects/web/myntra/myntra-weforshe/myntra/wishlist/cart.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1371384)
+    at B (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798289)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:797566)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:799079)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1312213)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1297922
+[Error - 6:18:02 PM] Error while computing completions for file:///home/aditirao/projects/web/myntra/myntra-weforshe/myntra/wishlist/cart.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1371384)
+    at B (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:798289)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:797566)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:799079)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1312213)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1297922

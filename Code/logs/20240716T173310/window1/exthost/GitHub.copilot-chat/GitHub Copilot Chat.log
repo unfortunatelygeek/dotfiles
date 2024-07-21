@@ -1,0 +1,18 @@
+2024-07-16 17:33:13.859 [info] [FetcherService] Using the Helix fetcher.
+2024-07-16 17:33:13.859 [info] [gitExtensionService] Initializing Git extension service.
+2024-07-16 17:33:13.859 [info] [gitExtensionService] Successfully activated the vscode.git extension.
+2024-07-16 17:33:13.859 [info] [gitExtensionService] Enablement state of the vscode.git extension: true.
+2024-07-16 17:33:13.859 [info] [gitExtensionService] Successfully registered Git commit message provider.
+2024-07-16 17:33:14.102 [info] [auth] Logged in as unfortunatelygeek
+2024-07-16 17:33:14.102 [info] [auth] Logged in as unfortunatelygeek
+2024-07-16 17:33:14.672 [info] [chat] copilot token chat_enabled: true
+2024-07-16 17:33:14.673 [info] [githubTitleAndDescriptionProvider] GitHub.vscode-pull-request-github extension is not yet activated.
+2024-07-16 17:33:14.697 [info] [auth] Got Copilot token for unfortunatelygeek
+2024-07-16 17:33:14.713 [info] [chat] copilot token chat_enabled: true
+2024-07-16 17:33:14.713 [info] [auth] Got Copilot token for unfortunatelygeek
+2024-07-16 17:33:14.824 [info] [auth] Logged in as unfortunatelygeek
+2024-07-16 17:33:14.831 [info] [chat] copilot token chat_enabled: true
+2024-07-16 17:33:14.831 [info] [auth] Got Copilot token for unfortunatelygeek
+2024-07-16 17:58:14.716 [info] [auth] Logged in as unfortunatelygeek
+2024-07-16 17:58:15.112 [info] [chat] copilot token chat_enabled: true
+2024-07-16 17:58:15.113 [info] [auth] Got Copilot token for unfortunatelygeek

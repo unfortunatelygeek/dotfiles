@@ -1,0 +1,95 @@
+live_config_reload = true
+shell = "/bin/zsh"
+
+[env]
+TERM = "alacritty"
+
+[colors]
+draw_bold_text_with_bright_colors = true
+selection = {text = "0x000000", background = "0xFFFFFF"}
+
+[colors.bright]
+black = "0x9ea7b3"
+blue = "0x6f76ef"
+cyan = "0x39c5cf"
+green = "0xfee8d2"
+magenta = "0xcb9eff"
+red = "0xffb1af"
+white = "0xd9dee3"
+yellow = "0xf7c843"
+
+[colors.cursor]
+cursor = "0xf0f3f6"
+text = "0x0a0c10"
+
+[colors.normal]
+black = "0x7a828e"
+blue = "0x311432"
+cyan = "0x39c5cf"
+green = "0xFFD2A6"
+magenta = "0xcb9eff"
+red = "0xff9492"
+white = "0xd9dee3"
+yellow = "0xf0b72f"
+
+[colors.primary]
+background = "0x0a0c10"
+foreground = "0xf0f3f6"
+
+[cursor]
+style = "Beam"
+
+[[keyboard.bindings]]
+action = "Paste"
+key    = "V"
+mods   = "Control|Shift"
+
+[[keyboard.bindings]]
+action = "Copy"
+key    = "C"
+mods   = "Control|Shift"
+
+[font]
+size = 14.0
+
+[font.normal]
+family = "monospace"
+
+[font.glyph_offset]
+x = 0
+y = 0
+
+[mouse]
+hide_when_typing = false
+
+[[mouse.bindings]]
+action = "PasteSelection"
+mouse = "Middle"
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[selection]
+save_to_clipboard = true
+
+[window]
+decorations = "none"
+dynamic_padding = true
+opacity = 0.7
+startup_mode = "Maximized"
+dynamic_title = true
+
+[window.dimensions]
+columns = 220
+lines = 90
+
+[window.padding]
+x = 15
+y = 15
+
+[bell]
+animation = "EaseOutExpo"
+color     = "#C0C5CE"
+command   = "None"
+duration  = 0

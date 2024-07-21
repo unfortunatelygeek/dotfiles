@@ -1,0 +1,32 @@
+/* Adjust the container of the try-on section to position its children relatively */
+#try-on {
+    display: flex;
+    flex-direction: row; /* Aligns children (write-up, button, and camera-container) in a row */
+    justify-content: space-between; /* Distributes extra space evenly */
+    align-items: flex-start; /* Aligns items at the start of the container */
+}
+
+#camera-container {
+    display: none;
+    width: 40%;
+    position: relative; /* Keep as absolute for relative positioning within try-on section */
+    bottom: 20px; /* Adjust as needed */
+    right: 20px; /* Changed from left to right to align it to the right side */
+    background-color: white;
+    z-index: 1000;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+#camera-content {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#ar-container, #clothing-options, #camera-content {
+    width: 100%; /* Ensures these elements take the full width of their parent */
+}

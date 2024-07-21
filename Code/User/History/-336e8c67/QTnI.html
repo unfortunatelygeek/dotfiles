@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VirtualFit</title>
+    <link rel="shortcut icon" type="image/png" href="myntra/Common Files/image/favicon.png">
+    <link rel="stylesheet" href="ar-styles.css">
+    <link rel="stylesheet" href="myntra/Common Files/style.css">
+    <link rel="stylesheet" href="../Landingpage/navbar.css">
+    <link rel="stylesheet" href="../Landingpage/footer.css">
+    <style>
+        /* Your existing CSS styles here */
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="../Landingpage/index.html">Home</a></li>
+                <li><a href="../Homepages/menHomePage.html">Men</a></li>
+                <li><a href="../Homepages/womenHomePage.html">Women</a></li>
+                <li><a href="../Homepages/homeLiving.html">Home Living</a></li>
+                <li><a href="#try-on">Try On</a></li>
+                <li><a href="#how-it-works">How It Works</a></li>
+                <li><a href="../Profile/profile.html">Profile</a></li>
+                <li><a href="../wishlist/wishlist.html">Wishlist</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home-secondary">
+            <h1>Welcome to VirtualFit AR</h1>
+            <p>Experience clothes shopping like never before with our AR try-on technology!</p>
+        </section>
+        
+        <section id="try-on">
+            <h2>Virtual Fitting Room</h2>
+            <h3>Here's What you Have to Do:</h3>
+            <p>Choose an Outfit from the Catalogue and add it to your wishlist</p>
+            <p>Click 'Turn On the Camera'</p>
+            <div id="ar-container">
+                <!-- AR view container -->
+            </div>
+            <div id="clothing-options">
+                <!-- Thumbnails of clothes to try on -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 VirtualFit AR. All rights reserved.</p>
+        <nav>
+            <ul>
+                <li><a href="../Homepages/sustainability.html">Sustainability</a></li>
+                <li><a href="../Homepages/voting.html">Voting</a></li>
+            </ul>
+        </nav>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Retrieve items from localStorage
+            const storedData = localStorage.getItem('wishlistItems');
+            if (storedData) {
+                const data = JSON.parse(storedData);
+                const items = data.items;
+
+                // Process each item (example: move PNG files to assets folder)
+                items.forEach(item => {
+                    const imagePath = item.image; // Example: '../path-to-item1.png'
+                    const fileName = imagePath.substring(imagePath.lastIndexOf('/') + 1); // Extract filename
+                    const destinationPath = 'assets/' + fileName; // Destination path relative to live-try-on.html
+
+                    // Simulate moving file (adjust as per your actual file handling logic)
+                    console.log(`Moving ${imagePath} to ${destinationPath}`);
+                    // Replace with your actual file handling logic to move files
+
+                    // Example: Creating an image element for demonstration
+                    const img = document.createElement('img');
+                    img.src = destinationPath; // Set the source of the image to the new location
+                    img.alt = item.name; // Example: Set alt attribute with item name
+                    img.style.width = '100px'; // Example: Set width for demonstration
+
+                    // Append the image to the clothing-options section
+                    document.getElementById('clothing-options').appendChild(img);
+                });
+
+                // Clear localStorage after processing
+                localStorage.removeItem('wishlistItems');
+            }
+        });
+    </script>
+</body>
+</html>
