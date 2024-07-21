@@ -13,5 +13,9 @@ Here's a preview of my terminal:
 2. Autocomplete: [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete)
 3. Terminal Emulator: [Alacritty](https://github.com/alacritty/alacritty)
 4. Terminal Workspace/Multiplexer: [zellij](https://github.com/zellij-org/zellij)
+5. Shell Prompt: Starship (Set using Oh My Zsh)
+6. `ls` Alternative: eza
+7. `nano` Alternative: micro (recommended if you don't have the patience for nano and are migrating from Windows)
+8. To-Do: Taskwarrior
 
 BG sauce/creds: [BLACKBOX](https://twitter.com/1L9l2Aa8UCL0IGJ)
