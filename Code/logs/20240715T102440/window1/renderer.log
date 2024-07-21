@@ -1,3 +1,0 @@
-2024-07-15 10:24:42.352 [info] Started local extension host with pid 7127.
-2024-07-15 10:24:43.134 [error] Terminal disposed of during xterm.js creation: CodeExpectedError: Terminal disposed of during xterm.js creation
-    at ze.Hc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2400:42565)
