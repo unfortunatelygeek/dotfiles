@@ -16,6 +16,6 @@ Here's a preview of my terminal:
 5. Shell Prompt: Starship (Set using Oh My Zsh)
 6. `ls` Alternative: eza
 7. `nano` Alternative: micro (recommended if you don't have the patience for nano and are migrating from Windows)
-8. To-Do: Taskwarrior
+8. `helix`: The best vim alternative. I really liked how intuitive it became eventually. I'm currently using the `amberwood` theme
 
 BG sauce/creds: [BLACKBOX](https://twitter.com/1L9l2Aa8UCL0IGJ)
